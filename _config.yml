@@ -4,13 +4,9 @@ repository               : "https://jaorduz.github.io"
 permalink: https://jaorduz.github.io
 title: JO's Courses
 author: Javier Orduz
-logo: /assets/img/FESAcUNAM.jpg
-description: Group of Quantum and Scientific Computing
 show_downloads: false 
-google_analytics: quantum computing, scientific computing, quantum machine learning
 theme: jekyll-theme-minimal
 date_format: "%B %-d, %Y"
-timezone: "America/MexicoCity"
 markdown: kramdown
 # JAOD
 plugins:
